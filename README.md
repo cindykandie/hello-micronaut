@@ -75,7 +75,7 @@ Example commands:
 
 Install this project with:
 
-- to install locally run git clone https://github.com/Sammy3000/Hello-microverse.git
+- to install locally run git clone https://github.com/cindykandie/Hello-microverse.git
 - open the cloned directory with VSCode
 - Install lives server extension on VSCode
 - Right click on the index.html and select open with live server/Go Live
