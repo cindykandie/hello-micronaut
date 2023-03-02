@@ -1,33 +1,6 @@
-<a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
 
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-After you're finished please remove all the comments and instructions!
--->
-
-<div align="center">
-
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>My Microverse README MarkDown</b></h3>
+  <h3><b>Hello Micronaut</b></h3>
 
 </div>
 
@@ -145,9 +118,9 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@sam](https://github.com/cindykandie)
-- Twitter: [@towettsam](https://twitter.com/cindykandie)
-- LinkedIn: [@towettSammy](https://www.linkedin.com/in/cindykandie/)
+- GitHub: [@cindykandie](https://github.com/cindykandie)
+- Twitter: [@cindykandie](https://twitter.com/cindykandie)
+- LinkedIn: [@cindykandie](https://www.linkedin.com/in/cindykandie/)
 
 
 
